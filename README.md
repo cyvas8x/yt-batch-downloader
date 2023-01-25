@@ -1,4 +1,4 @@
-> ⚠️ Script ini untuk download mp3
+> ⚠️ Script ini hanya untuk download mp3
 
 ## penggunaan : 
 1. Paste link yt di links.txt
