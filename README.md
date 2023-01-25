@@ -1,2 +1,1 @@
-# yt-batch-downloader
-YouTube batch Downloader
+Sementara kyak gini dulu, Nanti saya update
